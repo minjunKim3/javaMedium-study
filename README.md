@@ -4,3 +4,5 @@
 
 2025/09/04 
 - Github과 IntelliJ 연동 테스트, HelloWorld.java 연동 테스트
+2025/09/15
+- NestedClass 폴더 추가, Ex1 예제 추가.
